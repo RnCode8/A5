@@ -1,1 +1,1 @@
-![Build Status](https://github.com/RnCode8/A5/actions/workflows/ci.yml/badge.svg)
+![Build Status](https://github.com/RnCode8/A5/actions/workflows/SE333_CI.yml/badge.svg)
