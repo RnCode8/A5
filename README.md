@@ -1,0 +1,1 @@
+![Build Status](https://github.com/RnCode8/A5/actions/workflows/ci.yml/badge.svg)
